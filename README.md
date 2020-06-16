@@ -16,5 +16,5 @@ b 0.3
 c 0.6
 ```
 
-2. Change directory in `Main` to this text file.
+2. Change directory in `Main.java` to this text file.
 3. Run.
